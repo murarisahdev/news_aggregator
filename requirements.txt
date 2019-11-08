@@ -1,0 +1,5 @@
+flask
+newsapi-python
+flask-restful
+praw
+python-decouple
